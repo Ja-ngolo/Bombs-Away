@@ -1,2 +1,2 @@
 # Bombs-Away
-Airplane top down shooter videogame, based on the Kosovo War.
+Airplane top down arcade videogame, based on the Kosovo War.
